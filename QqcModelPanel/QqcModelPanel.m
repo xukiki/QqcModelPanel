@@ -7,6 +7,8 @@
 //
 //#import <GPUImage/GPUImage.h>
 #import "QqcModelPanel.h"
+#import "UIView+Qqc.h"
+#import "QqcSizeDef.h"
 
 static QqcModelPanel* _instance;
 
